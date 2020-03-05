@@ -1,0 +1,22 @@
+{
+  "name": "github_test",
+  "version": "1.0.0",
+  "description": "测试github action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niuben/githubaction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niuben/githubaction/issues"
+  },
+  "homepage": "https://github.com/niuben/githubaction#readme",
+  "dependencies": {
+    "shell-deploy": "^0.2.13"
+  }
+}
